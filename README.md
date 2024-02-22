@@ -4,7 +4,7 @@
 - Exercício 3
 
 Foto
-<img src="https://pt.pngtree.com/freebackground/colorful-abstract-ocean-waves-background_2422857.html" alt="Imagem Teste">
+<img src="https://www.pexels.com/pt-br/foto/fotografia-em-close-de-diferentes-tipos-de-cores-de-papel-40799/" alt="Imagem Teste">
 
 # A2
 - Exercício 1
