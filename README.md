@@ -5,7 +5,7 @@
 
 Foto
 
-#A2
+# A2
 - Exercício 1
 - Exercício 2
 - Exercício 3
