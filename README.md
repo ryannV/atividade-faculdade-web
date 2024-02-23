@@ -1,13 +1,12 @@
-# A1
-- Exercício 1
-- Exercício 2
-- Exercício 3
 
-Foto
+# 👩‍💻 Atividades Sistemas Web
 
-# A2
-- Exercício 1
-- Exercício 2
-- Exercício 3
+### Projetos
+- Apresentação
+- Receita
+- My library
 
-Foto
+
+### Stack utilizada
+
+**Languages:** HTML, CSS e JavaScript
