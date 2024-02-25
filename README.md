@@ -9,4 +9,4 @@
 
 ### Stack utilizada
 
-**Languages:** HTML, CSS e JavaScript
+**Languages:** HTML e CSS
