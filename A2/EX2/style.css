@@ -1,0 +1,68 @@
+*
+{
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body
+{
+    background: rgb(55,3,77);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.interface
+{
+    max-width: 1480px;
+}
+
+section .container
+{
+    background-color: #646464;
+    width: 300px;
+    border-radius: 15px;
+    box-shadow: 5px 10px 5px rgba(0, 0, 0, 0.318);
+}
+
+section h1
+{
+    color: #050307;
+    text-align: center;
+}
+
+section form
+{
+    padding: 0 30px;
+}
+
+section form div
+{
+    margin-top: 10px;
+}
+
+input[type="text"],
+input[type="password"],
+textarea {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box;
+}
+
+button
+{
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #2a0a54;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}

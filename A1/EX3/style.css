@@ -1,0 +1,91 @@
+/* =========================== ESTILOS GERAIS =========================== */
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+a
+{
+    text-decoration: none;
+    color: aqua;
+}
+
+.interface
+{
+    max-width: 1480px;
+    margin: 0 auto;
+}
+
+body
+{
+    background-image: url(images/background-library.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+}
+
+body::before
+{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    z-index: -1; /* Coloque o pseudo-elemento atrás do conteúdo do body */
+}
+
+/* =========================== FIM ESTILOS GERAIS =========================== */
+
+
+/* =========================== ESTILOS HEADER =========================== */
+header
+{
+    margin: 30px 0 8px 0;
+    display: flex;
+    justify-content: center;
+}
+
+/* =========================== FIM ESTILOS HEADER =========================== */
+
+/* =========================== ESTILOS MAIN =========================== */
+.img-books
+{
+    width: 80px;
+}
+
+section.container-book
+{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+section div.book
+{
+    text-align: center;
+    align-items: center;
+    width: 450px;
+    background-color: #4a4a4aab;
+    padding: 10px;
+    border-radius: 10px;
+    transition: 0.2s;
+}
+
+section div.book:hover
+{
+    cursor: pointer;
+    box-shadow: 0 0 8px #bcbcbc;
+    transform: scale(1.01);
+}
+
+section div.book p 
+{
+    text-align: justify;
+    font-size: 16px;
+    padding: 0 10px;
+}
+/* =========================== FIM ESTILOS MAIN =========================== */
