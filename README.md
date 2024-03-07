@@ -12,7 +12,11 @@
 - Login
 - Cadastro
 - Pesquisa de Satisfação
-- Cadastro de Usuário 
+- Cadastro de Usuário
+
+### A3 - exclusive 
+- Login
+- Menu
 
 ### Stack utilizada
 **Languages:** HTML e CSS
