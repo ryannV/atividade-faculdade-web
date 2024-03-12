@@ -17,6 +17,7 @@
 ### A3 - exclusive 
 - Login
 - Menu
+- Dropdown
 
 ### Stack utilizada
 **Languages:** HTML e CSS
